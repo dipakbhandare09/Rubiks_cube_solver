@@ -1,6 +1,5 @@
-//
-// Created by Harsh on 17-06-2023.
-//
+// Created By 
+// Dipak Bhandare 
 
 #ifndef UNTITLED_GENERIC_RUBICS_CUBE_SOLVER_H
 #define UNTITLED_GENERIC_RUBICS_CUBE_SOLVER_H
