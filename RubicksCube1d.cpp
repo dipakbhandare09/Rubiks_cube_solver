@@ -1,6 +1,5 @@
-//
-// Created by Harsh
-//
+// Created By 
+// Dipak Bhandare 
 #include "Generic_rubics_cube_solver.h"
 
 class RubiksCube1dArray : public RubiksCube {
