@@ -1,6 +1,5 @@
-//
-// Created by DELL on 17-06-2023.
-//
+// Created By 
+// Dipak Bhandare 
 
 #include "Generic_rubics_cube_solver.h"
 
