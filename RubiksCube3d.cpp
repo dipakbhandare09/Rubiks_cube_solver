@@ -1,6 +1,5 @@
-//
-// Created by Harsh on 18-06-2023.
-//
+// Created By 
+// Dipak Bhandare 
 
 #include "Generic_rubics_cube_solver.h"
 
